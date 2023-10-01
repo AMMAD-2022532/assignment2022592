@@ -19,8 +19,12 @@ public class Assignment2022592 {
         int num1 = 5;
         int num2 = 7;
         int sum = num1 + num2;
+        int multiple = num1 * num2;
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+         System.out.println("The multiple of " + num1 + " and " + num2 + " is: " + multiple);
+        
     }
+    
 
     
     

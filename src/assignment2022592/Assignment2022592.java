@@ -15,7 +15,13 @@ public class Assignment2022592 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello world");
+        
+        int num1 = 5;
+        int num2 = 7;
+        int sum = num1 + num2;
+        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
+
+    
     
 }
